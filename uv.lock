@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.10, <3.13"
 resolution-markers = [
     "python_full_version >= '3.12'",
@@ -4297,7 +4297,7 @@ wheels = [
 
 [[package]]
 name = "perovskite-solar-cell-database"
-version = "0.0.0"
+version = "0.1.1"
 source = { git = "https://github.com/FAIRmat-NFDI/nomad-perovskite-solar-cells-database.git?rev=v0.1.1#1fa193054fe7965b37b543a510364bbcaa3f8fa9" }
 dependencies = [
     { name = "lxml-html-clean" },
@@ -4976,7 +4976,7 @@ wheels = [
 
 [[package]]
 name = "pynxtools-igor"
-version = "0.1.2"
+version = "0.1.3"
 source = { registry = "https://gitlab.mpcdf.mpg.de/api/v4/projects/2187/packages/pypi/simple" }
 dependencies = [
     { name = "h5py" },
@@ -4984,9 +4984,9 @@ dependencies = [
     { name = "pynxtools" },
     { name = "xarray" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/0e/12/298edaf7a111caec33c978320642e591b4534e209a3925d2a9412ae76688/pynxtools_igor-0.1.2.tar.gz", hash = "sha256:d07ff0b5f9002e332bc6710727b1ae77e60c8539232f2ef13a6cedba4e58f48b", size = 8835491, upload-time = "2025-05-23T16:36:11.009Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/3a/c5/de2d3e90ce0656cde848422dd2308c34e31f28ff298dd0d87abbf5c657c1/pynxtools_igor-0.1.3.tar.gz", hash = "sha256:829537f3f62cc920a05bcabe964cab95fef6148119a7d32467d3c14daaf7015e", size = 8835565, upload-time = "2025-08-01T11:41:26.784Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/48/aa/1e77acb760d44ec48f27f82752ab4507654b13053040e3df1926ddbf3b2b/pynxtools_igor-0.1.2-py3-none-any.whl", hash = "sha256:d1c8ddb19669d79f4dc38bc0e4898ee5f113ca3972f2ab7f58aca3d9f309d0d3", size = 8827745, upload-time = "2025-05-23T16:36:08.544Z" },
+    { url = "https://files.pythonhosted.org/packages/ec/c4/1346344476abf76f470962405c4967d66d5062faf6289c9805080fb8ff12/pynxtools_igor-0.1.3-py3-none-any.whl", hash = "sha256:6007b1018e1948d248d506cea27f5c230b704800d69928f16b7d49a43bdce2b6", size = 8827805, upload-time = "2025-08-01T11:41:24.255Z" },
 ]
 
 [[package]]
