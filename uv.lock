@@ -4297,7 +4297,7 @@ wheels = [
 
 [[package]]
 name = "perovskite-solar-cell-database"
-version = "0.1.1"
+version = "0.0.0"
 source = { git = "https://github.com/FAIRmat-NFDI/nomad-perovskite-solar-cells-database.git?rev=v0.1.1#1fa193054fe7965b37b543a510364bbcaa3f8fa9" }
 dependencies = [
     { name = "lxml-html-clean" },
