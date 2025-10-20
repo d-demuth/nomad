@@ -5050,17 +5050,16 @@ wheels = [
 
 [[package]]
 name = "pynxtools-xrd"
-version = "0.0.5"
+version = "0.0.6"
 source = { registry = "https://gitlab.mpcdf.mpg.de/api/v4/projects/2187/packages/pypi/simple" }
 dependencies = [
     { name = "fairmat-readers-xrd" },
-    { name = "pint" },
     { name = "pynxtools" },
     { name = "xmltodict" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/7e/e1/f3775ca3d2de7a2d3a877d0edc5ce2e1606548c9a8244346068b1319ec1a/pynxtools_xrd-0.0.5.tar.gz", hash = "sha256:3d84bff04009e8fa7160c580737058a7d9c071823d2ed263e2f444bb85c7ce83", size = 119573, upload-time = "2025-03-25T16:13:27.162Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/5d/34/e86c2453f7f686389cf8d5f150f981dbf2eddaa03c7f8e945097168738cb/pynxtools_xrd-0.0.6.tar.gz", hash = "sha256:1c5a332bdc6af09f045ec006459b8ae26d3c518a84752ba86915cc0476756bdc", size = 119482, upload-time = "2025-07-30T11:23:19.169Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/0f/28/c702fc5a2329434abaac58d9db631d82be338010c6beeab93dda4fe94704/pynxtools_xrd-0.0.5-py3-none-any.whl", hash = "sha256:805161f853587ae1f1230e5841ac44a4f8381742d7adda962050fe5f8b813f7c", size = 14722, upload-time = "2025-03-25T16:13:25.682Z" },
+    { url = "https://files.pythonhosted.org/packages/40/4f/c628ccdea46ebedf21043b2f4e5d41cc76f8c3fbcb6f211c95efcad4b917/pynxtools_xrd-0.0.6-py3-none-any.whl", hash = "sha256:8f343e14ad9dbee6f09cd019fdb73d7e89f0da3713967d25056653ca4684fb46", size = 14770, upload-time = "2025-07-30T11:23:17.528Z" },
 ]
 
 [[package]]
